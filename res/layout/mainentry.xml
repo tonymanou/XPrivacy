@@ -99,6 +99,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="3dip"
             android:layout_marginRight="3dip"
+            android:background="?attr/button_background"
             android:contentDescription="@string/title_restrict"
             android:visibility="invisible" />
 
@@ -117,7 +118,7 @@
             android:layout_height="32dip"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="3dip"
-            android:background="?attr/color_dangerous"
+            android:background="?attr/button_dangerous_background"
             android:contentDescription="@string/title_restrict"
             android:visibility="invisible" />
     </LinearLayout>

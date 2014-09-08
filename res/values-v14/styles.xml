@@ -24,6 +24,8 @@
         <item name="color_state_restricted">@color/color_state_restricted_dark</item>
         <item name="color_state_shared">@color/color_state_shared_dark</item>
         <item name="background_tutorial">@drawable/tutorial_background_dark</item>
+        <item name="button_background">@drawable/button_bg_dark</item>
+        <item name="button_dangerous_background">@drawable/button_bg_dangerous_dark</item>
     </style>
 
     <style name="CustomTheme.Light" parent="android:Theme.Holo.Light.DarkActionBar">
@@ -50,6 +52,8 @@
         <item name="color_state_restricted">@color/color_state_restricted_light</item>
         <item name="color_state_shared">@color/color_state_shared_light</item>
         <item name="background_tutorial">@drawable/tutorial_background_light</item>
+        <item name="button_background">@drawable/button_bg_light</item>
+        <item name="button_dangerous_background">@drawable/button_bg_dangerous_light</item>
     </style>
 
     <style name="CustomTheme.Light.Dialog" parent="android:Theme.Holo.Light">

@@ -41,6 +41,7 @@
                 android:layout_height="32dip"
                 android:layout_gravity="center_vertical"
                 android:layout_marginRight="3dip"
+                android:background="?attr/button_background"
                 android:clickable="true"
                 android:contentDescription="@string/help_application"
                 android:focusable="true"

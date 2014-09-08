@@ -11,7 +11,7 @@
         android:layout_width="24dip"
         android:layout_height="24dip"
         android:layout_gravity="center_vertical|center_horizontal"
-        android:background="?attr/color_dangerous"
+        android:background="?attr/button_dangerous_background"
         android:contentDescription="@string/app_name"
         android:src="?attr/icon_expander_minimized" />
 
@@ -42,6 +42,7 @@
         android:layout_width="32dip"
         android:layout_height="32dip"
         android:layout_gravity="center_vertical"
+        android:background="?attr/button_background"
         android:contentDescription="@string/help_application"
         android:paddingLeft="3dip"
         android:src="?attr/icon_info" />
@@ -100,6 +101,7 @@
         android:layout_width="32dip"
         android:layout_height="32dip"
         android:layout_gravity="center_vertical"
+        android:background="?attr/button_background"
         android:contentDescription="@string/title_restrict"
         android:paddingLeft="3dip"
         android:visibility="invisible" />
